@@ -8,7 +8,7 @@ each of them has its own specifications, both **attributes and methods**.
 
 ## The principles  which i applied in the project 👀 
 * 1- Constructor & Destructor.
-	 > To to initialize the attributes by default values and print  a Welcome message.
+	 > To to initialize the attributes by default values and print a Welcome message and date and time.
 *  2- The default Copy Constructor.
     >Take default values for attributes by user.
  * 3- Inheritance
