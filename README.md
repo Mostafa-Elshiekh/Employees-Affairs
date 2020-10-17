@@ -1,12 +1,12 @@
 # Employees Affairs
 ## Finally, i finished **object oriented programming course (OOP) by using C++ .**
-This project as  an application on the principles  which  i learned in this course , in short this project as **Employees Affairs** , which the Employees in this company They are divided into **two** types
+This project as  an application on the principles  which  i learned in this course , in short this project as **Employees Affairs** , which the Employees in this company They are divided into **two** types:
  * 1-Sellers 
  * 2-Engineers
 
 each of them has its own specifications, both **attributes and methods**.
 
-## This is The principles  which i applied in the project 
+## The principles  which i applied in the project 👀 
 * 1- Constructor & Destructor.
 	 > To to initialize the attributes by default values and print  a Welcome message.
 *  2- The default Copy Constructor.
