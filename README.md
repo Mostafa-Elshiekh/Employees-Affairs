@@ -7,6 +7,7 @@ This project as  an application on the principles  which  i learned in this cour
 each of them has its own specifications, both **attributes and methods** if we run the programe will Employee id for the Employee which you want to search about it,
 number of allowed IDs from[100,105]..and programe will print every thing about this id and calculate 
  by OverTimeHourPrice and add total to total salary, if you enter wrong id will print not found..and every once aske if you continue or you need break.
+ 
  ![Screenshot (1100)](https://user-images.githubusercontent.com/52630866/96415474-f5e13d80-11ee-11eb-88e4-acccc95daddf.png)
 
 ## The principles  which i applied in the project 👀 
