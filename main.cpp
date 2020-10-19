@@ -82,6 +82,7 @@ int main() {
             }
         }
         counter++;
+        flag=0;
 
     }
 
