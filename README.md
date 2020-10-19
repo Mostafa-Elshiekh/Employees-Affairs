@@ -4,7 +4,8 @@ This project as  an application on the principles  which  i learned in this cour
  * 1-Sellers 
  * 2-Engineers
 
-each of them has its own specifications, both **attributes and methods**.
+each of them has its own specifications, both **attributes and methods** if we runn the programe will Employee id for the Employee which you want to search about it,
+number of allowed IDs from[100,105]..and programe will print every thing about this id , if you enter wrong id will print not found..and every once aske if you continue or you need break.
 
 ## The principles  which i applied in the project 👀 
 * 1- Constructor & Destructor.
